@@ -16,12 +16,12 @@ st.markdown("""
 <style>
     /* 전체적인 폰트 및 배경 설정 */
     .stApp {
-        background: linear-gradient(to right top, #6d327c, #485DA6, #00a1ba, #01b18e, #32b37b);
-        color: white;
+        background: linear-gradient(to right top, #FFAEF1, #FFBED3, #FDDEBE, #FFF58C, #F1FA7E);
+        color: 009665;
     }
     /* 제목 스타일 */
     h1 {
-        color: #FFD700; /* 금색 계열 */
+        color: #FF5F5F; /* 금색 계열 */
         text-shadow: 2px 2px 4px #000000;
     }
     /* 헤더(제시어) 스타일 */
